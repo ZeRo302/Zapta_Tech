@@ -1,0 +1,22 @@
+{
+  "name": "zapta_tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeRo302/Zapta_Tech.git"
+  },
+  "author": "Muhamamd Bilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeRo302/Zapta_Tech/issues"
+  },
+  "homepage": "https://github.com/ZeRo302/Zapta_Tech#readme",
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
